@@ -2,7 +2,7 @@
 
 <project
     xmlns:ivy="antlib:org.apache.ivy.ant"
-    name="analytic-graph"
+    name="data-plots"
     default="dist"
     basedir=".">
     

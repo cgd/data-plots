@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ivy-module version="2.0">
-    <info organisation="org.jax" module="analytic-graph" revision="1.0"/>
+    <info organisation="org.jax" module="data-plots" revision="1.0"/>
     
     <configurations>
         <conf
@@ -14,7 +14,7 @@
     </configurations>
 
     <publications>
-        <artifact name="analytic-graph" type="jar" ext="jar"/>
+        <artifact name="data-plots" type="jar" ext="jar"/>
     </publications>
     
     <dependencies>
